@@ -1,0 +1,18 @@
+﻿  TextConf.cpp
+  Container.cpp
+  Controller.cpp
+  Door.cpp
+  Main.cpp
+  Model.cpp
+  NPC.cpp
+  Object.cpp
+  Player.cpp
+  Room.cpp
+  View.cpp
+  Generando código...
+c:\users\alvar\desktop\esc\uniwlv\gamesdevprojects\uniscape9.0\uniscape\room.cpp(87): warning C4715: 'Room::substractObject': no todas las rutas de acceso de control devuelven un valor
+c:\users\alvar\desktop\esc\uniwlv\gamesdevprojects\uniscape9.0\uniscape\model.cpp(31): warning C4715: 'Model::getRoom': no todas las rutas de acceso de control devuelven un valor
+c:\users\alvar\desktop\esc\uniwlv\gamesdevprojects\uniscape9.0\uniscape\controller.cpp(492): warning C4715: 'Controller::getObjectDescriptionInventory': no todas las rutas de acceso de control devuelven un valor
+c:\users\alvar\desktop\esc\uniwlv\gamesdevprojects\uniscape9.0\uniscape\controller.cpp(507): warning C4715: 'Controller::getObjectInteractionCode': no todas las rutas de acceso de control devuelven un valor
+c:\users\alvar\desktop\esc\uniwlv\gamesdevprojects\uniscape9.0\uniscape\controller.cpp(529): warning C4715: 'Controller::getDoorInteractionCode': no todas las rutas de acceso de control devuelven un valor
+  UniScape.vcxproj -> C:\Users\alvar\Desktop\esc\UniWLV\GamesDevProjects\UniScape9.0\Debug\UniScape.exe
